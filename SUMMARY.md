@@ -9,7 +9,7 @@
 
 ## Operations - Faculty Support
 
-* [Acuity](ops/fs/acuity.md)
+* [Acuity (Appointment Scheduling)](ops/fs/acuity.md)
 * [iClicker](ops/fs/iclicker.md)
 * [Course Capture \(Camtasia, Relay, Mediasite\)](ops/fs/course_capture.md)
 * [Desk.com](ops/fs/desk.md)

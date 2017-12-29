@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    "alerts",
+    "download-pdf-link",
+  ],
+  "pluginsConfig": {
+    "sharing": {
+      "facebook": false,
+      "twitter": false,
+      "google": false,
+      "instapaper": false
+    },
+    "download-pdf-link": {
+      "base": "https://www.gitbook.com/book/sdsu-its/policy-operations-guide/"
+    }
+  }
+}

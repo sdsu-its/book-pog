@@ -1,0 +1,49 @@
+body, .book .book-header, .book .book-summary, .book .book-body {
+  font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+  background-color: #FEFEFE;
+  font-weight: 200;
+}
+.markdown-section * {
+  /* ITS Black */
+  color: #202020;
+}
+.markdown-section p {
+  font-size: 1.75rem
+}
+.markdown-section h1 {
+  /* Black - Bold*/
+  color: #202020;
+  font-weight: 700;
+}
+.markdown-section h2 {
+ /* ITS Red*/
+  color: #C41230;
+  font-weight: 700;
+}
+.markdown-section h3,
+.markdown-section h4,
+.markdown-section h5 {
+  /* ITS Dark Gray*/
+  color: #505050;
+}
+.markdown-section a {
+  /* ITS Red*/
+  color:  #C41230;
+}
+.markdown-section a:hover {
+  /* Darker Shade of ITS Red*/
+  color:  #AA102A;
+}
+.dropdown.pull-left.font-settings div:nth-child(3) {
+  /* Hide the option to change the font via the Font Settings */
+  display: none;
+}
+.markdown-section> :first-child::before {
+    content: "";
+    background-image: url("./header-logo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 7rem;
+    margin-bottom: 2rem;
+    display: block;
+}

@@ -1,5 +1,7 @@
-body, .book .book-header, .book .book-summary, .book .book-body {
-  font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+body {
+font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+}
+.book .book-body {
   background-color: #FEFEFE;
   font-weight: 200;
 }

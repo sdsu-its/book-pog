@@ -9,7 +9,9 @@
 
 ## Operations - Faculty Support
 
+* [Introduction](ops/fs/README.md)
 * [Acuity (Appointment Scheduling)](ops/fs/acuity.md)
+* [Blackboard Course Combinations](ops/fs/course_combos.md)
 * [iClicker](ops/fs/iclicker.md)
 * [Course Capture (Camtasia, Relay, Mediasite)](ops/fs/course_capture.md)
 * [Desk.com](ops/fs/desk.md)
@@ -22,4 +24,5 @@
 
 ## Operations - Learning Spaces
 
+* [Introduction](ops/fs/README.md)
 * [Day to Day Tasks](ops/ls/recurring.md)

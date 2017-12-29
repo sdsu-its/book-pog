@@ -2,5 +2,23 @@
 
 * [Preface](README.md)
 
+Policies
+
+* [General Policies & Confidentiality](policy/general.md)
+* [Impersonating Users](policy/impersonate.md)
+
+Operations - Faculty Support
+* [Acuity](ops/fs/acuity.md)
+* [iClicker](ops/fs/iclicker.md)
+* [Course Capture (Camtasia, Relay, Mediasite)](ops/fs/course_capture.md)
+* [Desk.com](ops/fs/desk.md)
+* [Media Digitization](ops/fs/digitization.md)
+* [Respondus LockDown Browser](ops/fs/repondus_browser.md)
+* [Respondus Test Editing](ops/fs/respondus_test.md)
+* [Trello](ops/fs/trello.md)
+* [Turnitin](ops/fs/turnitin.md)
+* [Zoom](ops/fs/zoom.md)
+
+Operations - Learning Spaces
 
 

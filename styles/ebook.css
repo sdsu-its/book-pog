@@ -38,8 +38,9 @@ body, .book .book-header, .book .book-summary, .book .book-body {
     content: "";
     background-image: url("./header-logo.png");
     background-repeat: no-repeat;
-    background-size: contain;
-    height: 7rem;
+    background-size: 100% auto;
+    height: 2.25em;
     margin-bottom: 2rem;
     display: block;
+    border-bottom: 2px solid #505050;
 }

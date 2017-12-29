@@ -1,7 +1,7 @@
 {
   "plugins": [
     "alerts",
-    "download-pdf-link",
+    "download-pdf-link"
   ],
   "pluginsConfig": {
     "sharing": {

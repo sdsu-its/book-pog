@@ -11,7 +11,7 @@
 
 * [Acuity (Appointment Scheduling)](ops/fs/acuity.md)
 * [iClicker](ops/fs/iclicker.md)
-* [Course Capture \(Camtasia, Relay, Mediasite\)](ops/fs/course_capture.md)
+* [Course Capture (Camtasia, Relay, Mediasite)](ops/fs/course_capture.md)
 * [Desk.com](ops/fs/desk.md)
 * [Media Digitization](ops/fs/digitization.md)
 * [Respondus LockDown Browser](ops/fs/repondus_browser.md)
@@ -21,3 +21,5 @@
 * [Zoom](ops/fs/zoom.md)
 
 ## Operations - Learning Spaces
+
+* [Day to Day Tasks](ops/ls/recurring.md)

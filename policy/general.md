@@ -55,3 +55,16 @@ To prevent you, the student, from being put in a difficult situation where your 
 - You shall not knowingly impersonate an user who is enrolled as an instructor in any course that you are currently enrolled in, or will be enrolled in in the near future.
 
 In the event that you encounter a situation that may pose a conflict of interest, please pass the issue to another available student assistant, or escalate the issue to a full-time staff member or your supervisor.
+
+## Applicability of Aforementioned Policies
+The aforementioned policies apply to all ITS sites, services, and Partners, including but not limited to:
+- Blackboard (Production, Staging, and Testing)
+- Mediasite
+- Desk.com (Universal Inbox, Admin Panel, and Business Insights)
+- Acuity Scheduling
+- Room Schedule (Astra)
+- Voicemail Manager
+- Relay @ SDSU (capture.sdsu.edu)
+- Google (if using an ITS or ITS sponsored account)
+- Gitbook (if accessing SDSU ITS Content)
+- GitHub (if accessing SDSU ITS Repositories)

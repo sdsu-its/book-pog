@@ -1,5 +1,4 @@
 # "Top 10 List" of Good Computing Practices
-
 _Adopted from University of Santa Cruz: Information Technology Services_
 
 ## The Quick List

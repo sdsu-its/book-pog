@@ -6,6 +6,7 @@
 
 * [General Policies & Confidentiality](policy/general.md)
 * [Impersonating Users](policy/impersonate.md)
+* [Good Computing Practices](policy/computing.md)
 
 ## Operations - Faculty Support
 

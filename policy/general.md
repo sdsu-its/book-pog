@@ -44,7 +44,7 @@ In order to prevent all of the above, student employees may only access ITS reso
 
 - You shall not access my ITS Blackboard account from outside of ITS, e.g. at home, in the residence halls, etc. without explicit permission.
 
-- You shall not access any ITS Partner Services (including but not limited to: Acuity, any Google Account belonging to ITS, Mediasite, Room Schedule, and Voicemail Manager) from outside of ITS, e.g. at home, in the residence halls, etc. without explicit permission.
+- You shall not access any ITS Partner Services (including but not limited to: Acuity, any Google Account belonging to ITS, Mediasite, Room Schedule, and Voicemail Manager) from outside of ITS, e.g. at home, in the residence halls, etc. without explicit permission. This does NOT include GitHub.
 
 
 ## Conflict of Interest

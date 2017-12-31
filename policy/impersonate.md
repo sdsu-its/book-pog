@@ -3,7 +3,6 @@
 Being able to impersonate a user is an incredibly useful tool in diagnosing certain support issues. However, it poses issues in regard to ownership of actions performed while a user is being impersonated. Because of this, ITS has developed the following policies in regard to student assistants using Impersonate in Blackboard. Once mastery of the polices and concepts covered in this document has been demonstrated (in the form of a Blackboard Quiz), the impersonate permission will be granted to the user's Blackboard Support account.
 
 ## Usage Guidelines
-
 Impersonate should not be the first tool in your toolbox when diagnosing an issue, rather a resource that you can fall back on when your initial efforts have yielded no results, or indicate that it might be a user issue or an issue associated with the user interface a user is being presented with (especially in cases where this cannot be replicated by a support agent). All actions completed by the Impersonate Building Block, which facilitates the impersonation of a user in Blackboard are logged, including failed impersonate requests.
 
 As a student assistant, you will be granted limited impersonation abilities via the "Impersonate User w/ Less than or Equal Role" entitlement. This role allows users to impersonate users who have the same number of entitlements or fewer. In our case, this will allow student assistant to impersonate faculty and students (as they have zero system-wide entitlements), but not System Administrators, or System Support Users, as they have a greater number of system-wide entitlements.
@@ -17,6 +16,4 @@ Some issues in Blackboard can only be diagnosed by "seeing" what the user is "se
 - With great power comes great responsibility.
 
 ## Commonly Impersonated User Roles
-
-
-
+Students will be frequently impersonated in regard to assignment visibility, often in the case of adaptive release, or test availability exceptions. For instructors, they will frequently be impersonated when troubleshooting issues in regard to columns in the Grade Center, delegated grading, row visibility, etc.

@@ -3,17 +3,18 @@
 _Adopted from University of Santa Cruz: Information Technology Services_
 
 ## The Quick List
+Click on each item for additional information
 
-1. Use passwords that can't be easily guessed, and protect your passwords.
-2. Minimize storage of sensitive information.
-3. Beware of scams.
-4. Protect information when using the Internet and email.
-5. Make sure your computer is protected with anti-virus and all necessary security "patches" and updates.
-6. Secure laptop computers and mobile devices at all times: Lock them up or carry them with you.
-7. Shut down, lock, log off, or put your computer and other devices to sleep before leaving them unattended, and make sure they require a secure password to start up or wake-up.
-8. Don't install or download unknown or unsolicited programs/apps.
-9. Secure your area before leaving it unattended.
-10. Make backup copies of files or data you are not willing to lose.
+1. [Use passwords that can't be easily guessed, and protect your passwords.](#1-use-passwords-that-cant-be-easily-guessed-and-protect-your-passwords)
+2. [Minimize storage of sensitive information.](#2-minimize-storage-of-sensitive-information)
+3. [Beware of scams.](#3-beware-of-scams-never-reveal-your-password-or-click-on-unknown-links-or-attachments-be-careful-who-you-share-your-private-information-with)
+4. [Protect information when using the Internet and email.](#4-protect-information-when-using-the-internet-and-email)
+5. [Make sure your computer is protected with anti-virus and all necessary security "patches" and updates.](#5-make-sure-your-computer-is-protected-with-anti-virus-and-all-necessary-security-patches-and-updates-and-that-you-know-what-you-need-to-do-if-anything-to-keep-them-current)
+6. [Secure laptop computers and mobile devices at all times: Lock them up or carry them with you.](#6-secure-laptop-computers-and-mobile-devices-at-all-times-lock-them-up-or-carry-them-with-you)
+7. [Shut down, lock, log off, or put your computer and other devices to sleep before leaving them unattended, and make sure they require a secure password to start up or wake-up.](#7-shut-down-lock-log-off-or-put-your-computer-and-other-devices-to-sleep-before-leaving-them-unattended-and-make-sure-they-require-a-secure-password-to-start-up-or-wake-up)
+8. [Don't install or download unknown or unsolicited programs/apps.](#8-dont-install-or-download-unknown-or-unsolicited-programsapps-to-your-computer-phone-or-other-devices)
+9. [Secure your area before leaving it unattended.](#9-secure-your-area-before-leaving-it-unattended)
+10. [Make backup copies of files or data you are not willing to lose.](#10-make-backup-copies-of-files-or-data-you-are-not-willing-to-lose----and-store-the-copies-very-securely)
 
 ---
 

@@ -25,5 +25,5 @@
 
 ## Operations - Learning Spaces
 
-* [Introduction](ops/fs/README.md)
+* [Introduction](ops/ls/README.md)
 * [Day to Day Tasks](ops/ls/recurring.md)

@@ -22,7 +22,7 @@ Sometimes cases require attention of a lead student or a full-time staff member.
 
 ### Labeling Cases
 
-We have a few labels that can be assigned to cases. Labels are used both to categorize cases and to automate actions. Most labels assigned to Blackboard Cases will begin with `BB` to indicate their association with Faculty Support Cases.
+We have a few labels that can be assigned to cases. Labels are used both to categorize cases and to automate actions. Labels can also provide other agent a summary of the case, without needing to open the case and read through al of the interactions (messages). Most labels assigned to Blackboard Cases will begin with `BB` to indicate their association with Faculty Support Cases.
 
 | Label | Label Color \(Default/Blue if not specified\) | Usage |
 | :--- | :--- | :--- |

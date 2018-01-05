@@ -11,10 +11,11 @@
 ## Operations - Faculty Support
 
 * [Introduction](ops/fs/README.md)
-* [Acuity (Appointment Scheduling)](ops/fs/acuity.md)
+* [Acuity \(Appointment Scheduling\)](ops/fs/acuity.md)
 * [Blackboard Course Combinations](ops/fs/course_combos.md)
+* [Blackboard Naming Conventions](ops/fs/bb_naming_conventions.md)
 * [iClicker](ops/fs/iclicker.md)
-* [Course Capture (Camtasia, Relay, Mediasite)](ops/fs/course_capture.md)
+* [Course Capture \(Camtasia, Relay, Mediasite\)](ops/fs/course_capture.md)
 * [Desk.com](ops/fs/desk.md)
 * [Media Digitization](ops/fs/digitization.md)
 * [Respondus LockDown Browser](ops/fs/repondus_browser.md)
@@ -27,3 +28,6 @@
 
 * [Introduction](ops/ls/README.md)
 * [Day to Day Tasks](ops/ls/recurring.md)
+
+
+

@@ -1,7 +1,7 @@
 # iClicker
 
-iClicker is San Diego State University's supported Audience Response System. It   
-allows students to respond to questions posted by faculty using either a hand held remote or a web-enabled device such as a smartphone, tablet, or laptop. More than just an attendance checker, i&gt;clicker can be used for knowledge checks, gathering opinions, conversation starters, and other active learning. Students who are reluctant to raise their hand or participate in class are provided with an alternative means of having a voice in class.
+iClicker is San Diego State University's supported Audience Response System. It  
+allows students to respond to questions posted by faculty using either a hand held remote or a web-enabled device such as a smartphone, tablet, or laptop. More than just an attendance checker, iClicker can be used for knowledge checks, gathering opinions, conversation starters, and other active learning. Students who are reluctant to raise their hand or participate in class are provided with an alternative means of having a voice in class.
 
 Responses can be collected wither via hand held devices or via the iClicker Reef app on iOS and Android Devices or via the iClicker Student Website on laptops. On the faculty side, there are 2 options, iClicker Classic and iClicker Cloud. Documentation for each of these tools is linked below.
 

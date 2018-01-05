@@ -9,13 +9,13 @@ Responses can be collected wither via hand held devices or via the iClicker Reef
 
 As of the Spring 2018 semester, mixed \(using both physical and mobile devices\) is not supported by Instructional Technology Services. While mixed response collection is supported by both iClicker Cloud and iClicker Classic there are issues with both that make it very difficult for ITS to support users. For mobile-only response collection, Faculty should use iClicker Cloud; and for physical hand-held remotes, Faculty should use iClicker Classic. These two options are the ones that are supported by ITS at this time.
 
-## iClicker Classic
+### iClicker Classic
 
 When paired with a Base Receiver, which is already installed in a few of our larger classrooms - listed at the bottom of this page, iClicker classic can be used to collect responses from handheld devices. The iClicker Classic software can only be obtained from ITS, as the version downloaded from iClicker's website does not contain our LMS integration, which allows for the syncing of enrollments, remote registrations, and grades. The latest copy can usually be found on the FIT Center podium computers, with the Mac having the Mac version of iClicker Classic, and the PC having the PC version.
 
 **Documentation: **[https://www.gitbook.com/book/sdsu-its/i-clicker-quick-start/details](https://www.gitbook.com/book/sdsu-its/i-clicker-quick-start/details)
 
-## iClicker Cloud
+### iClicker Cloud
 
 This option is exclusively for instructors using the REEF mobile app in their classrooms. iClicker Cloud's software is provided by iClicker directly, and may need to be downloaded on the instructors computer or classroom computer before use. Integration with Blackboard is accomplished via either an LTI or Partner tool, both of which are discussed in the documentation linked below.
 

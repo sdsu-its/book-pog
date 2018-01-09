@@ -6,7 +6,6 @@
 
 * [General Policies & Confidentiality](policy/general.md)
 * [Impersonating Users](policy/impersonate.md)
-* [Good Computing Practices](policy/computing.md)
 
 ## Operations - Faculty Support
 
@@ -32,5 +31,5 @@
 
 ## Reference
 * [Clear Browser Session](ref/clear_session.md)
-
+* [Good Computing Practices](ref/computing_best_practices.md)
 

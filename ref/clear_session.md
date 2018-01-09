@@ -1,6 +1,6 @@
 # Clear Browser Session
 
-When things go funky with websites and logins, clearing your cache forces your browser to retrieve the newest copy available from the website, something that should happen automatically but sometimes does not. Internet cookies \(the non-edible type\) are tiny files stored on your hard drive by your browser that contain information about your visit to a particular website, like login status, personalization, and advertising preferences, etc. The steps below describe how to clear the cache and cookies for each of the major browsers. This document is also available in the [Desk](/ops/fs/desk.md) Knowledge Base, so it can easily be shared with clients via macros.
+When things go funky with websites and logins, clearing your cache forces your browser to retrieve the newest copy available from the website, something that should happen automatically but sometimes does not. Internet cookies \(the non-edible type\) are tiny files stored on your hard drive by your browser that contain information about your visit to a particular website, like login status, personalization, and advertising preferences, etc. The steps below describe how to clear the cache and cookies for each of the major browsers. This document is also available as an [article](https://sdsu-its.desk.com/customer/portal/articles/2914355-clearing-your-browser-session) in the [Desk](/ops/fs/desk.md) Knowledge Base, so it can easily be shared with clients via macros.
 
 ## Chrome: Clear Browsing Data
 

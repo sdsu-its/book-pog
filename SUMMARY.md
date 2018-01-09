@@ -30,5 +30,7 @@
 * [Introduction](ops/ls/README.md)
 * [Day to Day Tasks](ops/ls/recurring.md)
 
+## Reference
+* [Clear Browser Session](ref/clear_session.md)
 
 

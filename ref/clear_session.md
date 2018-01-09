@@ -40,7 +40,7 @@ See [How to Clear the Cache in Firefox](https://www.lifewire.com/how-to-clear-th
 
 If you're using Firefox's mobile app, tap the menu from the bottom right and then choose **Settings** from that menu. Find the _PRIVACY_ section and tap **Clear Private Data**. Make sure **Cache** is chosen and then tap **Clear Private Data**. Confirm with an **OK**.
 
-## Safari: Empty Caches
+## Safari: Clearing Sessions
 
 In Apple's Safari browser, clearing the cache is done via the _Develop_ menu. Just tap or click **Develop** and then **Empty Caches**. Deleting the cookies in Apple's Safari web browser is done through the _Privacy_ section of _Preferences_, under the _Cookies and other website data _section. Click or tap **Remove All Website Data... **to delete all the cookies, or choose **Details... **to delete website-specific cookies.
 

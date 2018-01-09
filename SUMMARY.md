@@ -14,6 +14,7 @@
 * [Acuity \(Appointment Scheduling\)](ops/fs/acuity.md)
 * [Blackboard Course Combinations](ops/fs/course_combos.md)
 * [Blackboard Naming Conventions](ops/fs/bb_naming_conventions.md)
+* [Blackboard Login](ops/fs/bb_login.md)
 * [iClicker](ops/fs/iclicker.md)
 * [Course Capture \(Camtasia, Relay, Mediasite\)](ops/fs/course_capture.md)
 * [Desk.com](ops/fs/desk.md)

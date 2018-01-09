@@ -2,10 +2,8 @@
 
 ## Course Names
 
-* **For all homerooms \(-HR\),**
-   please refer to Jon \(the creation of a HR requires a face-to-face meeting with him\).
-* **For all courses,**
-   double-check that your usage of upper and lower case, underscores and dashes. 
+* **For all homerooms \(-HR\), **please refer to Jon \(the creation of a HR requires a face-to-face meeting with him\).
+* **For all courses, **double-check that your usage of upper and lower case, underscores and dashes. 
 
 | **TYPE OF COURSE** | **REASON** | **EXAMPLE** | **NOTES** |
 | :--- | :--- | :--- | :--- |
@@ -16,16 +14,14 @@
 | Study Abroad | For study abroad programs \(various disciplines involved\). | **JRizzo-StudyAbroad-Summer2016** | Add the faculty name as you would in a DEVEL course. Add semester as these are increasing. |
 | Restore | Pulled from our ITS archive. | **HIST110-01-Fall2016-RESTORE** | Add “-RESTORE” so we can identify and delete. |
 
-
-
 ## User Names
 
 |  | **REASON** | **EXAMPLE** | **NAMING CONVENTION** | **NOTES** |
 | :--- | :--- | :--- | :--- | :--- |
 | “GUI” account | Temporary accounts for instructors. | **lwoods\_16** | First initial + Last name + Underscore + Year created | Once the account is created, it needs to be manually added to the course\(s\). |
-| CES account | Accounts created by College of Extended Studies. | **lwoods555\_ext** | First initial + Last name + 3 digits + Underscore + Year created |   |
+| CES account | Accounts created by College of Extended Studies. | **lwoods555\_ext** | First initial + Last name + 3 digits + Underscore + Year created |  |
 | BIOL account | Accounts created by Biology department. | **13fa\_biologybsca4** | Unknown | These accounts are used to track completion of mandatory training by various SDSU staff. |
-| Fake Student | Fake student accounts for instructors \(allows them to see the student view and experiment\). | **clicker16** First name: **Student**Last name: **Clicker16**Email: **lwoods@nobody.sdsu.edu** | clicker + nextavailablenumber \(make sure number hasn’t been used or it will add a 1, 2, 3, etc. to the end\) First initial + Last name + @nobody.sdsu.edu |   |
+| Fake Student | Fake student accounts for instructors \(allows them to see the student view and experiment\). | **clicker16** First name: **Student**Last name: **Clicker16**Email: **lwoods@nobody.sdsu.edu** | clicker + nextavailablenumber \(make sure number hasn’t been used or it will add a 1, 2, 3, etc. to the end\) First initial + Last name + @nobody.sdsu.edu |  |
 
 
 

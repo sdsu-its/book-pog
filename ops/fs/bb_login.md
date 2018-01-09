@@ -14,7 +14,7 @@ There are situations in which the SSO session will expire, but the user will rem
 \(It might take a moment to fully sign out\)  
 3. Go back to blackboard.sdsu.edu and login using your SDSUid.
 
-To prevent this form occurring in the future, you can advice the user to choose "no" when prompted if they would like to stay signed in after logging into the Office365 Portal. This will result in the user being prompted to login when they try and access a service which uses AAD \(Azure Active Directory, what drives the Office365 Portal\), and their session is expired.
+To prevent this from occurring in the future, you can advice the user to choose "no" when prompted if they would like to stay signed in after logging into the Office365 Portal. This will result in the user being prompted to login when they try and access a service which uses AAD \(Azure Active Directory, what drives the Office365 Portal\), and their session is expired.
 
 **Macro Name:** BB - SSO Session Expired
 

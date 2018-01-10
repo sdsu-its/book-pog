@@ -1,6 +1,6 @@
 # Logging into Blackboard
 
-As of January 5th, most users will login to Blackboard via SDSUid. Some users with GUI accounts \(some staff members, ITS staff, clicker users, CES students, etc\) will still need to login with a username and password, which can be accomplished via the [Speakeasy method](#speakeasy-method) listed below.
+As of January 5th, most users will login to Blackboard via SDSUid. Some users with GUI accounts \(some staff members, ITS staff, clicker users, CES students, etc\) will still need to login with a username and password, which can be accomplished via the Non SDSUid method listed below.
 
 ## SSO Login Issues
 
@@ -24,13 +24,11 @@ If their session is still valid, which is indicated by the absence of the Sessio
 
 **Macro Name:** BB - Clear Session
 
-## Speakeasy Method
+## Non-SDSUid Method
 
-The new SDSUid login is only for users who previously used their RedID to login to Blackboard. So as not to confuse them, we have hidden the login box for those using GUI accounts.
+The new SDSUid login is only for users who previously used their RedID to login to Blackboard. Underneath the "Login with your SDSUid" button, you should see a line reading "Non-SDSUid users, login here." Click on the link in this line. A "Non-SDSUid Login" box and "Password" box should appear at the bottom of the home page. Use these boxes to enter your GUI credentials.
 
-To reveal these login box, visit the Blackboard homepage. Here, you will notice that the name "San Diego State University" appears twice. Click on the "y" at the end of the word "University" in the second appearance of the name. An "Administrative Login" box and "Password" box should appear at the bottom of the home page. Use these boxes to enter your GUI credentials.
-
-![](/assets/bb-hidden-login.png)
+![](/assets/bb-alt-login.png)
 
 **Macro Name:** BB - GUI Login
 

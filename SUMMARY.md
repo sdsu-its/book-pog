@@ -1,35 +1,36 @@
-# Summary
+# Table of contents
 
 * [Preface](README.md)
 
 ## Policies
 
-* [General Policies & Confidentiality](policy/general.md)
-* [Impersonating Users](policy/impersonate.md)
+* [General Policies & Confidentiality](policies/general-policies-and-confidentiality.md)
+* [Impersonating Users](policies/impersonating-users.md)
 
 ## Operations - Faculty Support
 
-* [Introduction](ops/fs/README.md)
-* [Acuity \(Appointment Scheduling\)](ops/fs/acuity.md)
-* [Blackboard Course Combinations](ops/fs/course_combos.md)
-* [Blackboard Naming Conventions](ops/fs/bb_naming_conventions.md)
-* [Blackboard Login](ops/fs/bb_login.md)
-* [iClicker](ops/fs/iclicker.md)
-* [Course Capture \(Camtasia, Relay, Mediasite\)](ops/fs/course_capture.md)
-* [Desk.com](ops/fs/desk.md)
-* [Media Digitization](ops/fs/digitization.md)
-* [Respondus LockDown Browser](ops/fs/repondus_browser.md)
-* [Respondus Test Editing](ops/fs/respondus_test.md)
-* [Trello](ops/fs/trello.md)
-* [Turnitin](ops/fs/turnitin.md)
-* [Zoom](ops/fs/zoom.md)
+* Introduction
+* Acuity \(Appointment Scheduling\)
+* Blackboard Course Combinations
+* [Blackboard Naming Conventions](operations-faculty-support/blackboard-naming-conventions.md)
+* [Blackboard Login](operations-faculty-support/blackboard-login.md)
+* [iClicker](operations-faculty-support/iclicker.md)
+* Course Capture \(Camtasia, Relay, Mediasite\)
+* [Desk.com](operations-faculty-support/desk.com.md)
+* Media Digitization
+* Respondus LockDown Browser
+* Respondus Test Editing
+* Trello
+* Turnitin
+* Zoom
 
 ## Operations - Learning Spaces
 
-* [Introduction](ops/ls/README.md)
-* [Day to Day Tasks](ops/ls/recurring.md)
+* Introduction
+* Day to Day Tasks
 
 ## Reference
-* [Clear Browser Session](ref/clear_session.md)
-* [Good Computing Practices](ref/computing_best_practices.md)
+
+* [Clear Browser Session](reference/clear-browser-session.md)
+* [Good Computing Practices](reference/good-computing-practices.md)
 
